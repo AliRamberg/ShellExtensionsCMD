@@ -7,7 +7,7 @@ and open a cmd shell from the same directory.
 
 ![example_pic](images/example.png)
 
-## Compiling
+## Build
 open Developer PowerShell for VS {2019}
 ```
 git clone https://github.com/AliRamberg/ShellExtensionsCMD
